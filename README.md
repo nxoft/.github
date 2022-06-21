@@ -1,3 +1,3 @@
 # nexoft
 ## Projects
-- Car App
+- Car App - Car meets, events, marketplace, and more.
